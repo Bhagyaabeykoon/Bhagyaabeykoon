@@ -2,7 +2,7 @@
 <h3 align="center">Computing Undergraduate | Future IT Professional</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Computing+Student+at+NSBM;Learning+Software+Development;Interested+in+Banking+%2B+IT+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Computing+Student+at+NSBM;Learning+Business+Information+Systems;Interested+in+Management+%2B+IT+Systems" />
 </p>
 
 ---
