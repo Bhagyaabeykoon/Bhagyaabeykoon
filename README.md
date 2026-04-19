@@ -89,6 +89,3 @@ Node.js API with validation and database integration.
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Bhagyaabeykoon/Bhagyaabeykoon/blob/output/github-contribution-grid-snake.svg)
